@@ -1,1 +1,17 @@
-# webProject-AnyangsiCommunity
+# 😊 안양시 소통창구 커뮤니티 "안양? 안녕!"
+
+
+### 📌 프로젝트 목적 : 안양시의 소통창구 플랫폼을 계획하기위해 커뮤니티를 만듬으로써 안양시민들끼리의 소통창구 활성화 및 정보공유 수단이 될 수 있도록 도움이 되고자 함.
+
+### 📌 프로젝트 기획 : 
+프론트엔드 : react.js
+</br>
+백엔드 : SpringBoot
+<br/>
+데이터베이스 : MySQL
+
+### 📌 프로젝트 인원 : 1명 (표수용)
+
+추후 기획안 제작 및 반영 예정
+
+학습 내용 정리 : https://www.notion.so/React-js-SpringBoot-f4797a9b5fe84969a34cceb6af831a5f (Notion)
